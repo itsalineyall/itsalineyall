@@ -30,6 +30,5 @@
   <a href="https://www.youtube.com/watch?v=R98pvB4WYNc&list=PLQ8tlO7R5eCe7VvpUij7Qqp2tet0vst0v" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/itsalineyall/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alinevieiraf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alinevieiraf/" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Wix-0C6EFC.svg?style=for-the-badge&logo=Wix&logoColor=white)" target="_blank"></a> 
   
 </div>
