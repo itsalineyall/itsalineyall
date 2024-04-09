@@ -14,7 +14,6 @@
 ![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
 ![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![WordPress](https://img.shields.io/badge/wordpress-0D1117.svg?style=for-the-badge&logo=wordpress&logoColor=4C8CD5)
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=ECC91C)
 
@@ -25,7 +24,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 
-##
+## You can also find me here:
 <div> 
   <a href="https://itsalinevieira.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/Wix-0C6EFC.svg?style=for-the-badge&logo=Wix&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/watch?v=R98pvB4WYNc&list=PLQ8tlO7R5eCe7VvpUij7Qqp2tet0vst0v" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
